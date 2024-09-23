@@ -1,2 +1,1 @@
-print('you are a bot')
-
+"i'm a supper idoit, I can just use neon to rush instead of with teammate"
